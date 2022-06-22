@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int luckyNum=2;
+            int luckyNum=3;
             int guess;
             bool Continue = true;
             int guessChance = 3;
