@@ -1,0 +1,11 @@
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\bin\Debug\GroupBox.exe.config
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\bin\Debug\GroupBox.exe
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\bin\Debug\GroupBox.pdb
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.Form1.resources
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.exe
+C:\Users\Samuel\Documents\GitHub\Lab2\GroupBox\GroupBox\obj\Debug\GroupBox.pdb

@@ -1,0 +1,11 @@
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\bin\Debug\TimerGame.exe.config
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\bin\Debug\TimerGame.exe
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\bin\Debug\TimerGame.pdb
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.csproj.AssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.Form1.resources
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.csproj.GenerateResource.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.exe
+C:\Users\Samuel\Documents\GitHub\Lab2\TimerGame\TimerGame\obj\Debug\TimerGame.pdb
